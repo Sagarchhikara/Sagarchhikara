@@ -1,39 +1,71 @@
-# 👋 Hi there, I’m Sagar Chhikara!
+<h1 align="center">👋 Hey, I'm Sagar Chhikara</h1>
 
-I’m a **Computer Science student** who loves turning ideas into code and chaos into clean, working projects. I dive deep into **web development, AI/ML, and IoT**—always experimenting, breaking stuff, and building it back better.
-
-Curious mind, caffeine-powered nights, and a soft spot for clean UI and smart automation 🚀
-
----
-
-## 💡 About Me
-
-- 🏫 **Student** | Computer Science
-- 💻 **Languages & Skills:** Python, Java, C++, JavaScript, AI/ML, Data Structures & Algorithms
-- ⚡ **Interests:** Web Development • Artificial Intelligence • IoT • Automation
-- 🏆 **Achievements:**
-  - [Build Real world Ai applications with Imagen and Gemini -Google ](https://www.credly.com/badges/c2ef5d56-665a-41e3-994a-01c5e5813a30/linked_in_profile)
-  - [AWS Academy Graduate – AWS Academy Cloud Foundations](https://www.credly.com/badges/85413889-7b6c-46ed-80f2-24dc22aa5395/linked_in_profile)
-  - Star Programmer, Chitkara University
+<p align="center">
+  <em>Computer Science student | Web Dev ⚡ AI/ML ⚙️ IoT enthusiast | Forever curious 🧠</em>
+</p>
 
 ---
 
-## 🚀 Notable Projects
+### 💫 About Me
 
-- [**CampusConnect**](https://github.com/Sagarchhikara/campusconnect2.o) & [CampusconnectProject](https://github.com/Sagarchhikara/CampusconnectProject) – Platform for campus-related collaboration and connectivity
-- [**Dino-game-**](https://github.com/Sagarchhikara/Dino-game-) – Chrome-style dinosaur game clone
-- [**Weatherdashapp**](https://github.com/Sagarchhikara/Weatherdashapp) – Weather dashboard web app
-- [**Code-Radar-Solutions**](https://github.com/Sagarchhikara/Code-Radar-Solutions) – Solutions to coding challenges
-- [**Java-prac**](https://github.com/Sagarchhikara/Java-prac) – Personal Java practice repository
-
-*And more—check out my pinned projects and recent activity!*
+🚀 I’m a **Computer Science student** who loves turning ideas into reality through code.  
+From sleek **web apps** to smart **AI systems** and clever **IoT builds**, I’m all about experimenting, breaking things, and rebuilding them stronger.  
+Fueled by curiosity, caffeine, and an obsession with clean UI & smooth automation.  
 
 ---
 
-## 🌐 Connect with Me
+### 🧠 Tech Stack & Skills
 
-[![LinkedIn](https://img.shields.io/badge/-Sagar%20Chhikara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sagar-chhikara-3ab55a31b/)](https://www.linkedin.com/in/sagar-chhikara-3ab55a31b/)
+💻 **Languages:** Python • Java • C++ • JavaScript  
+🧩 **Core Skills:** Data Structures & Algorithms • Web Dev • AI/ML • IoT  
+⚙️ **Tools & Frameworks:** Flask • Django • React • Arduino • Git  
+☁️ **Cloud:** AWS • Azure  
 
 ---
 
-> “Always experimenting, always learning—if it breaks, I’ll build it back better.”
+### 🏆 Certifications & Achievements
+
+- 🎓 [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/c2ef5d56-665a-41e3-994a-01c5e5813a30/linked_in_profile)  
+- ☁️ [AWS Academy Graduate – Cloud Foundations](https://www.credly.com/badges/85413889-7b6c-46ed-80f2-24dc22aa5395/linked_in_profile)  
+- 🥇 **Star Programmer** – Chitkara University  
+
+---
+
+### 💻 Featured Projects
+
+| 🚀 Project | 🔗 Link | 🧩 Description |
+|-------------|----------|----------------|
+| **CampusConnect** | [Repo](https://github.com/Sagarchhikara/campusconnect2.o) | A social hub for students — notes, updates & collabs |
+| **Weatherdashapp** | [Repo](https://github.com/Sagarchhikara/Weatherdashapp) | Interactive weather dashboard with real-time API data |
+| **Fire-Fighting Robot** | — | Arduino-powered bot with sensors for detecting & extinguishing fire |
+| **Code-Radar-Solutions** | [Repo](https://github.com/Sagarchhikara/Code-Radar-Solutions) | My personal collection of DSA & coding problem solutions |
+| **Java-prac** | [Repo](https://github.com/Sagarchhikara/Java-prac) | My Java practice playground |
+
+---
+
+### 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sagar-chhikara-3ab55a31b/">
+    <img src="https://img.shields.io/badge/-Sagar%20Chhikara-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sagarchhikara02@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Sagarchhikara">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### ⚡ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sagarchhikara&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sagarchhikara&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+> 💬 “Always experimenting, always learning — if it breaks, I’ll build it back better.”
