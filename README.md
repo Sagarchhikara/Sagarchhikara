@@ -25,9 +25,10 @@ Fueled by curiosity, caffeine, and an obsession with clean UI & smooth automatio
 
 ### 🏆 Certifications & Achievements
 
-- 🎓 [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/c2ef5d56-665a-41e3-994a-01c5e5813a30/linked_in_profile)  
-- ☁️ [AWS Academy Graduate – Cloud Foundations](https://www.credly.com/badges/85413889-7b6c-46ed-80f2-24dc22aa5395/linked_in_profile)  
-- 🥇 **Star Programmer** – Chitkara University  
+- 🎓 [Build Real World applications using Gemini And Imagen-Google](https://www.credly.com/badges/c2ef5d56-665a-41e3-994a-01c5e5813a30/linked_in_profile)  
+- ☁️ [Prompt Design in Vertex Ai-Google ](https://www.credly.com/badges/85413889-7b6c-46ed-80f2-24dc22aa5395/linked_in_profile)  
+- 🥇 **Star Programmer** – Chitkara University
+- **Rudiments Of Ai- By Dr. Ashok Chitakara**-Chitkara university  
 
 ---
 
@@ -49,7 +50,7 @@ Fueled by curiosity, caffeine, and an obsession with clean UI & smooth automatio
   <a href="https://www.linkedin.com/in/sagar-chhikara-3ab55a31b/">
     <img src="https://img.shields.io/badge/-Sagar%20Chhikara-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:sagarchhikara02@gmail.com">
+  <a href="mailto:sagarchhikara13570@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Sagarchhikara">
