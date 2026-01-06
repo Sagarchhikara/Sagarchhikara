@@ -58,15 +58,6 @@ Fueled by curiosity, caffeine, and an obsession with clean UI & smooth automatio
   </a>
 </p>
 
----
 
-### ⚡ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagarchhikara&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sagarchhikara&theme=radical" alt="GitHub Streak" />
-</p>
-
----
 
 > 💬 “Always experimenting, always learning — if it breaks, I’ll build it back better.”
