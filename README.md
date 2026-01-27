@@ -36,6 +36,7 @@ Fueled by curiosity, caffeine, and an obsession with clean UI & smooth automatio
 
 | 🚀 Project | 🔗 Link | 🧩 Description |
 |-------------|----------|----------------|
+|**Makemyshow** |[Live](https://makemyshow-jade.vercel.app/)| A working clone of a movie booking wesbite like Bookmyshow|
 | **CampusConnect** | [Repo](https://github.com/Sagarchhikara/campusconnect2.o) | A social hub for students — notes, updates & collabs |
 | **Weatherdashapp** | [Repo](https://github.com/Sagarchhikara/Weatherdashapp) | Interactive weather dashboard with real-time API data |
 | **Fire-Fighting Robot** | — | Arduino-powered bot with sensors for detecting & extinguishing fire |
